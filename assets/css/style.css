@@ -203,7 +203,7 @@ body {
     /* 50% chính chiều ngang của nó */
     padding-top: 50%;
     /* Cấu trúc: url position / size */
-    background: url('../img/slider/slider1.JPG') center / contain no-repeat; 
+    background: url('../img/slider/slider1.JPG') center / cover no-repeat; 
 }
 
 .text-content{
